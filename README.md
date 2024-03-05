@@ -10,7 +10,7 @@
 
 # Mojification
 
-**Mojification** is a Jupyter Notebook-based helper for alignment of two texts in different languages. Based on [Lingtrain Aligner](https://github.com/averkij/lingtrain-aligner) (version 0.8.7), it does not change texts, but “mojify” them.
+**Mojification** is a Jupyter Notebook-based helper for alignment of two texts in different languages. Based on [Lingtrain Aligner](https://github.com/averkij/lingtrain-aligner) (version 0.8.7), it does not change texts, but “mojifies” them.
 
 >🤓 **to mojify** *verb* /ˈmɒdʒɪfaɪ/ to wrap corresponding sentences of two texts in different languages in emoji
 
