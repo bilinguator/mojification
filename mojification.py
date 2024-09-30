@@ -36,7 +36,7 @@ def standard_split(text: str, period_marks: list[str] | None=None, surrogate_del
     """
     
     if period_marks == None:
-        ['</h1>', '</b>', '</i>', '?', '!', '.', '፡', '።', '፣', '፤', '፥', '।']
+        period_marks = ['</h1>', '</b>', '</i>', '?', '!', '.', '፡', '።', '፣', '፤', '፥', '।']
 
     text_splitted = text
     
